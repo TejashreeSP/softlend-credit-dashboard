@@ -1,0 +1,46 @@
+.card {
+  background: white;
+
+  padding: 20px;
+
+  border-radius: 12px;
+
+  margin-bottom: 20px;
+
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+.locked {
+  opacity: 0.6;
+}
+
+.button {
+  background: #2563eb;
+
+  color: white;
+
+  border: none;
+
+  padding: 10px 20px;
+
+  border-radius: 8px;
+
+  cursor: pointer;
+
+  transition: 0.3s ease;
+}
+
+.button:hover {
+  background: #1d4ed8;
+}
+.lock {
+  color: red;
+
+  font-weight: bold;
+}
+
+.card:hover {
+  transform: translateY(-4px);
+
+  transition: 0.3s ease;
+}

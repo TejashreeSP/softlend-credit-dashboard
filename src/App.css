@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+
+  font-family:
+    "Segoe UI",
+    Tahoma,
+    Geneva,
+    Verdana,
+    sans-serif;
+
+  background:
+    linear-gradient(
+      135deg,
+      #eef2ff,
+      #dbeafe
+    );
+
+  min-height: 100vh;
+}
+
+h1 {
+  color: #1e293b;
+}
+
+h2 {
+  color: #334155;
+}
+
+p {
+  color: #475569;
+}
