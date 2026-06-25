@@ -49,7 +49,5 @@ src/
 └── index.js
 ```
 
-## Deployment
 
-Hosted using Vercel.
 
