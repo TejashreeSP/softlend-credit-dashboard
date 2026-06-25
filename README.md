@@ -58,25 +58,11 @@ Run the application:
 
 npm start
 
-Open in browser:
+The application will run on the local development server.
 
-http://localhost:3000 
 
 ## Postman Usage
 
-1. Open Postman.
-
-2. Create a new request.
-
-3. Select the required HTTP method:
-   - GET
-   - POST
-   - PUT
-   - DELETE
-
-4. Enter API URL:
-
-Example:
-http://localhost:3000/api/offers
+No API testing required. This project is a frontend React application using JSON data.
 
 
